@@ -1,0 +1,57 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: GitHubStarStatusUpdate
+
+on:
+  push:
+    paths:
+    # Trigger only when src/** changes
+      - "README_template.md"
+      - "config.json"
+  schedule: 
+       - cron: '1 0 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install matplotlib==3.3.4
+        pip install requests==2.22.0
+        pip install Jinja2==2.11.2
+        
+    - name: run tasks
+      env:
+        MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python main.py config.json
+        
+    - name: commit
+      id: commit
+      run: |
+        git config --global user.email github-actions@github.com
+        git config --global user.name action_bot
+        git add ./data
+        git add README.md
+        git commit -m "update by action_bot"
+      continue-on-error: true
+    - name: Check on failures
+      if: steps.commit.outputs.status == 'failure'
+      run: exit 1
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

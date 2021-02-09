@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "vercel/*.html", "use": "@vercel/static" },
+    { "src": "core/*.py", "use": "@vercel/python" },
+    { "src": "vercel/*.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/vercel/index.html" },
+    { "src": "/s/(.*)", "dest": "/vercel/web.py" }, 
+    { "src": "/f/(.*)", "dest": "/vercel/web.py" }, 
+    { "src": "/h/(.+?)/(.+?)", "dest": "/vercel/web.py" }, 
+    { "src": "/(.*)", "status": 404, "dest": "/vercel/404.html" }
+  ]
+}

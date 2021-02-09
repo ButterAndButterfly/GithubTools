@@ -1,0 +1,8 @@
+README.md
+yarn.lock
+__pycache__
+repo.txt
+user.txt
+config.json
+.github
+LICENSE
