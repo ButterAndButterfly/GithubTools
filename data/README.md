@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![136 stars](https://img.shields.io/badge/Stars-136-green)
+    ![138 stars](https://img.shields.io/badge/Stars-138-green)
     ![16 forks](https://img.shields.io/badge/Forks-16-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
