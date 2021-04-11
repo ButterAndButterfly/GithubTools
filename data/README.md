@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![255 stars](https://img.shields.io/badge/Stars-255-green)
+    ![256 stars](https://img.shields.io/badge/Stars-256-green)
     ![28 forks](https://img.shields.io/badge/Forks-28-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -29,7 +29,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
     ![413 stars](https://img.shields.io/badge/Stars-413-green)
-    ![60 forks](https://img.shields.io/badge/Forks-60-green)  
+    ![61 forks](https://img.shields.io/badge/Forks-61-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
@@ -38,7 +38,7 @@
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![70 stars](https://img.shields.io/badge/Stars-70-green)
+    ![71 stars](https://img.shields.io/badge/Stars-71-green)
     ![11 forks](https://img.shields.io/badge/Forks-11-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
