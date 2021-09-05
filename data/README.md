@@ -11,7 +11,7 @@
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
     ![341 stars](https://img.shields.io/badge/Stars-341-green)
-    ![32 forks](https://img.shields.io/badge/Forks-32-green)  
+    ![33 forks](https://img.shields.io/badge/Forks-33-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![535 stars](https://img.shields.io/badge/Stars-535-green)
+    ![536 stars](https://img.shields.io/badge/Stars-536-green)
     ![77 forks](https://img.shields.io/badge/Forks-77-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
