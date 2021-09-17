@@ -10,8 +10,8 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![341 stars](https://img.shields.io/badge/Stars-341-green)
-    ![34 forks](https://img.shields.io/badge/Forks-34-green)  
+    ![340 stars](https://img.shields.io/badge/Stars-340-green)
+    ![35 forks](https://img.shields.io/badge/Forks-35-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
