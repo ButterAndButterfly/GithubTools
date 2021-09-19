@@ -19,16 +19,16 @@
     ![1 forks](https://img.shields.io/badge/Forks-1-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
-    + [H-Breaker](https://github.com/ButterAndButterfly/H-Breaker) 
+    + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
     ![2 stars](https://img.shields.io/badge/Stars-2-green)
-    ![0 forks](https://img.shields.io/badge/Forks-0-green)  
-    Head-Breaker 文件头破坏者，用于简单加密文件头/尾部
+    ![2 forks](https://img.shields.io/badge/Forks-2-green)  
+    目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![542 stars](https://img.shields.io/badge/Stars-542-green)
+    ![543 stars](https://img.shields.io/badge/Stars-543-green)
     ![78 forks](https://img.shields.io/badge/Forks-78-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
@@ -39,7 +39,7 @@
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
     ![93 stars](https://img.shields.io/badge/Stars-93-green)
-    ![14 forks](https://img.shields.io/badge/Forks-14-green)  
+    ![15 forks](https://img.shields.io/badge/Forks-15-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
