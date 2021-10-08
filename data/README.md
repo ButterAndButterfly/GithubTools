@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![342 stars](https://img.shields.io/badge/Stars-342-green)
+    ![341 stars](https://img.shields.io/badge/Stars-341-green)
     ![37 forks](https://img.shields.io/badge/Forks-37-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -21,7 +21,7 @@
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
     ![2 stars](https://img.shields.io/badge/Stars-2-green)
-    ![2 forks](https://img.shields.io/badge/Forks-2-green)  
+    ![3 forks](https://img.shields.io/badge/Forks-3-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
