@@ -38,8 +38,8 @@
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![101 stars](https://img.shields.io/badge/Stars-101-green)
-    ![15 forks](https://img.shields.io/badge/Forks-15-green)  
+    ![103 stars](https://img.shields.io/badge/Stars-103-green)
+    ![16 forks](https://img.shields.io/badge/Forks-16-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
