@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![348 stars](https://img.shields.io/badge/Stars-348-green)
+    ![349 stars](https://img.shields.io/badge/Stars-349-green)
     ![39 forks](https://img.shields.io/badge/Forks-39-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -28,12 +28,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![588 stars](https://img.shields.io/badge/Stars-588-green)
+    ![589 stars](https://img.shields.io/badge/Stars-589-green)
     ![81 forks](https://img.shields.io/badge/Forks-81-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![283 stars](https://img.shields.io/badge/Stars-283-green)
+    ![284 stars](https://img.shields.io/badge/Stars-284-green)
     ![47 forks](https://img.shields.io/badge/Forks-47-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
