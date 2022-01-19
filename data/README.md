@@ -39,7 +39,7 @@
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
     ![117 stars](https://img.shields.io/badge/Stars-117-green)
-    ![18 forks](https://img.shields.io/badge/Forks-18-green)  
+    ![19 forks](https://img.shields.io/badge/Forks-19-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
