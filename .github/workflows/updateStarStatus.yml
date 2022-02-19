@@ -32,6 +32,8 @@ jobs:
         pip install matplotlib==3.3.4
         pip install requests==2.22.0
         pip install Jinja2==2.11.2
+        pip install MarkupSafe==1.1.1
+
         
     - name: run tasks
       env:
