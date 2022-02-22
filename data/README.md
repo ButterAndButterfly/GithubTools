@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![367 stars](https://img.shields.io/badge/Stars-367-green)
+    ![369 stars](https://img.shields.io/badge/Stars-369-green)
     ![40 forks](https://img.shields.io/badge/Forks-40-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![695 stars](https://img.shields.io/badge/Stars-695-green)
+    ![696 stars](https://img.shields.io/badge/Stars-696-green)
     ![90 forks](https://img.shields.io/badge/Forks-90-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
@@ -43,7 +43,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
-    ![40 stars](https://img.shields.io/badge/Stars-40-green)
+    ![41 stars](https://img.shields.io/badge/Stars-41-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
