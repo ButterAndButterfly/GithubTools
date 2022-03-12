@@ -20,7 +20,7 @@
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
-    ![3 stars](https://img.shields.io/badge/Stars-3-green)
+    ![4 stars](https://img.shields.io/badge/Stars-4-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
@@ -38,7 +38,7 @@
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![126 stars](https://img.shields.io/badge/Stars-126-green)
+    ![127 stars](https://img.shields.io/badge/Stars-127-green)
     ![19 forks](https://img.shields.io/badge/Forks-19-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
