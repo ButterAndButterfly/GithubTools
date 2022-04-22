@@ -16,7 +16,7 @@
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
     ![15 stars](https://img.shields.io/badge/Stars-15-green)
-    ![1 forks](https://img.shields.io/badge/Forks-1-green)  
+    ![2 forks](https://img.shields.io/badge/Forks-2-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
@@ -29,7 +29,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
     ![741 stars](https://img.shields.io/badge/Stars-741-green)
-    ![96 forks](https://img.shields.io/badge/Forks-96-green)  
+    ![97 forks](https://img.shields.io/badge/Forks-97-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
