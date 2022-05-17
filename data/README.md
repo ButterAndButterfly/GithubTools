@@ -10,12 +10,12 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![378 stars](https://img.shields.io/badge/Stars-378-green)
+    ![377 stars](https://img.shields.io/badge/Stars-377-green)
     ![45 forks](https://img.shields.io/badge/Forks-45-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
-    ![16 stars](https://img.shields.io/badge/Stars-16-green)
+    ![15 stars](https://img.shields.io/badge/Stars-15-green)
     ![2 forks](https://img.shields.io/badge/Forks-2-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
@@ -28,22 +28,22 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![758 stars](https://img.shields.io/badge/Stars-758-green)
-    ![99 forks](https://img.shields.io/badge/Forks-99-green)  
+    ![756 stars](https://img.shields.io/badge/Stars-756-green)
+    ![100 forks](https://img.shields.io/badge/Forks-100-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![378 stars](https://img.shields.io/badge/Stars-378-green)
+    ![379 stars](https://img.shields.io/badge/Stars-379-green)
     ![61 forks](https://img.shields.io/badge/Forks-61-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![140 stars](https://img.shields.io/badge/Stars-140-green)
+    ![139 stars](https://img.shields.io/badge/Stars-139-green)
     ![22 forks](https://img.shields.io/badge/Forks-22-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
-    ![47 stars](https://img.shields.io/badge/Stars-47-green)
+    ![46 stars](https://img.shields.io/badge/Stars-46-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
