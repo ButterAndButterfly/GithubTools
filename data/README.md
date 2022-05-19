@@ -20,7 +20,7 @@
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
-    ![4 stars](https://img.shields.io/badge/Stars-4-green)
+    ![5 stars](https://img.shields.io/badge/Stars-5-green)
     ![5 forks](https://img.shields.io/badge/Forks-5-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
@@ -33,7 +33,7 @@
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![379 stars](https://img.shields.io/badge/Stars-379-green)
+    ![381 stars](https://img.shields.io/badge/Stars-381-green)
     ![61 forks](https://img.shields.io/badge/Forks-61-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
