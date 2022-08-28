@@ -34,7 +34,7 @@
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
     ![418 stars](https://img.shields.io/badge/Stars-418-green)
-    ![65 forks](https://img.shields.io/badge/Forks-65-green)  
+    ![66 forks](https://img.shields.io/badge/Forks-66-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
