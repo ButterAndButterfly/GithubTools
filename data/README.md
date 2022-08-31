@@ -21,19 +21,19 @@
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
     ![5 stars](https://img.shields.io/badge/Stars-5-green)
-    ![6 forks](https://img.shields.io/badge/Forks-6-green)  
+    ![7 forks](https://img.shields.io/badge/Forks-7-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![843 stars](https://img.shields.io/badge/Stars-843-green)
+    ![844 stars](https://img.shields.io/badge/Stars-844-green)
     ![105 forks](https://img.shields.io/badge/Forks-105-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![421 stars](https://img.shields.io/badge/Stars-421-green)
+    ![423 stars](https://img.shields.io/badge/Stars-423-green)
     ![66 forks](https://img.shields.io/badge/Forks-66-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
