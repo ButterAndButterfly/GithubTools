@@ -28,18 +28,18 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![907 stars](https://img.shields.io/badge/Stars-907-green)
+    ![909 stars](https://img.shields.io/badge/Stars-909-green)
     ![115 forks](https://img.shields.io/badge/Forks-115-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![455 stars](https://img.shields.io/badge/Stars-455-green)
+    ![456 stars](https://img.shields.io/badge/Stars-456-green)
     ![71 forks](https://img.shields.io/badge/Forks-71-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![155 stars](https://img.shields.io/badge/Stars-155-green)
-    ![23 forks](https://img.shields.io/badge/Forks-23-green)  
+    ![156 stars](https://img.shields.io/badge/Stars-156-green)
+    ![24 forks](https://img.shields.io/badge/Forks-24-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
