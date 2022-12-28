@@ -11,7 +11,7 @@
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
     ![391 stars](https://img.shields.io/badge/Stars-391-green)
-    ![42 forks](https://img.shields.io/badge/Forks-42-green)  
+    ![41 forks](https://img.shields.io/badge/Forks-41-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
