@@ -20,7 +20,7 @@
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
-    ![6 stars](https://img.shields.io/badge/Stars-6-green)
+    ![7 stars](https://img.shields.io/badge/Stars-7-green)
     ![8 forks](https://img.shields.io/badge/Forks-8-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
