@@ -11,7 +11,7 @@
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
     ![392 stars](https://img.shields.io/badge/Stars-392-green)
-    ![40 forks](https://img.shields.io/badge/Forks-40-green)  
+    ![41 forks](https://img.shields.io/badge/Forks-41-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
@@ -38,7 +38,7 @@
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![176 stars](https://img.shields.io/badge/Stars-176-green)
+    ![175 stars](https://img.shields.io/badge/Stars-175-green)
     ![27 forks](https://img.shields.io/badge/Forks-27-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
