@@ -28,12 +28,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![1283 stars](https://img.shields.io/badge/Stars-1283-green)
-    ![148 forks](https://img.shields.io/badge/Forks-148-green)  
+    ![1291 stars](https://img.shields.io/badge/Stars-1291-green)
+    ![149 forks](https://img.shields.io/badge/Forks-149-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![630 stars](https://img.shields.io/badge/Stars-630-green)
+    ![631 stars](https://img.shields.io/badge/Stars-631-green)
     ![93 forks](https://img.shields.io/badge/Forks-93-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
