@@ -15,7 +15,7 @@
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
-    ![15 stars](https://img.shields.io/badge/Stars-15-green)
+    ![16 stars](https://img.shields.io/badge/Stars-16-green)
     ![5 forks](https://img.shields.io/badge/Forks-5-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![1352 stars](https://img.shields.io/badge/Stars-1352-green)
+    ![1354 stars](https://img.shields.io/badge/Stars-1354-green)
     ![156 forks](https://img.shields.io/badge/Forks-156-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
