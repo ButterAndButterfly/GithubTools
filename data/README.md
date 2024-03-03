@@ -20,7 +20,7 @@
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
-    ![9 stars](https://img.shields.io/badge/Stars-9-green)
+    ![10 stars](https://img.shields.io/badge/Stars-10-green)
     ![8 forks](https://img.shields.io/badge/Forks-8-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![1777 stars](https://img.shields.io/badge/Stars-1777-green)
+    ![1783 stars](https://img.shields.io/badge/Stars-1783-green)
     ![187 forks](https://img.shields.io/badge/Forks-187-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
