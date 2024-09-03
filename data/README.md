@@ -15,7 +15,7 @@
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
-    ![20 stars](https://img.shields.io/badge/Stars-20-green)
+    ![21 stars](https://img.shields.io/badge/Stars-21-green)
     ![5 forks](https://img.shields.io/badge/Forks-5-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
