@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![2879 stars](https://img.shields.io/badge/Stars-2879-green)
+    ![2886 stars](https://img.shields.io/badge/Stars-2886-green)
     ![276 forks](https://img.shields.io/badge/Forks-276-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
@@ -43,7 +43,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
-    ![100 stars](https://img.shields.io/badge/Stars-100-green)
+    ![101 stars](https://img.shields.io/badge/Stars-101-green)
     ![34 forks](https://img.shields.io/badge/Forks-34-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
