@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![394 stars](https://img.shields.io/badge/Stars-394-green)
+    ![393 stars](https://img.shields.io/badge/Stars-393-green)
     ![38 forks](https://img.shields.io/badge/Forks-38-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -28,8 +28,8 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![2926 stars](https://img.shields.io/badge/Stars-2926-green)
-    ![283 forks](https://img.shields.io/badge/Forks-283-green)  
+    ![2931 stars](https://img.shields.io/badge/Stars-2931-green)
+    ![284 forks](https://img.shields.io/badge/Forks-284-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
@@ -43,7 +43,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
-    ![101 stars](https://img.shields.io/badge/Stars-101-green)
+    ![102 stars](https://img.shields.io/badge/Stars-102-green)
     ![34 forks](https://img.shields.io/badge/Forks-34-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
