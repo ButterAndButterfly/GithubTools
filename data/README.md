@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![3133 stars](https://img.shields.io/badge/Stars-3133-green)
+    ![3140 stars](https://img.shields.io/badge/Stars-3140-green)
     ![304 forks](https://img.shields.io/badge/Forks-304-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
@@ -39,7 +39,7 @@
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
     ![212 stars](https://img.shields.io/badge/Stars-212-green)
-    ![29 forks](https://img.shields.io/badge/Forks-29-green)  
+    ![28 forks](https://img.shields.io/badge/Forks-28-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
