@@ -10,7 +10,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![394 stars](https://img.shields.io/badge/Stars-394-green)
+    ![395 stars](https://img.shields.io/badge/Stars-395-green)
     ![38 forks](https://img.shields.io/badge/Forks-38-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -28,7 +28,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![3369 stars](https://img.shields.io/badge/Stars-3369-green)
+    ![3374 stars](https://img.shields.io/badge/Stars-3374-green)
     ![322 forks](https://img.shields.io/badge/Forks-322-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
@@ -43,7 +43,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
-    ![113 stars](https://img.shields.io/badge/Stars-113-green)
+    ![114 stars](https://img.shields.io/badge/Stars-114-green)
     ![38 forks](https://img.shields.io/badge/Forks-38-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
