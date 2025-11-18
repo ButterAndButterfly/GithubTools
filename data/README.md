@@ -21,15 +21,15 @@
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools) 
     ![10 stars](https://img.shields.io/badge/Stars-10-green)
-    ![9 forks](https://img.shields.io/badge/Forks-9-green)  
+    ![8 forks](https://img.shields.io/badge/Forks-8-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![3938 stars](https://img.shields.io/badge/Stars-3938-green)
-    ![364 forks](https://img.shields.io/badge/Forks-364-green)  
+    ![4023 stars](https://img.shields.io/badge/Stars-4023-green)
+    ![373 forks](https://img.shields.io/badge/Forks-373-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
