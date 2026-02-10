@@ -28,8 +28,8 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![4433 stars](https://img.shields.io/badge/Stars-4433-green)
-    ![405 forks](https://img.shields.io/badge/Forks-405-green)  
+    ![4437 stars](https://img.shields.io/badge/Stars-4437-green)
+    ![407 forks](https://img.shields.io/badge/Forks-407-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
@@ -44,7 +44,7 @@
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
     ![130 stars](https://img.shields.io/badge/Stars-130-green)
-    ![44 forks](https://img.shields.io/badge/Forks-44-green)  
+    ![43 forks](https://img.shields.io/badge/Forks-43-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
 
