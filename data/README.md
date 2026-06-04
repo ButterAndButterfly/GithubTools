@@ -29,7 +29,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
     ![4917 stars](https://img.shields.io/badge/Stars-4917-green)
-    ![428 forks](https://img.shields.io/badge/Forks-428-green)  
+    ![429 forks](https://img.shields.io/badge/Forks-429-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
