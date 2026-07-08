@@ -22,14 +22,7 @@ jobs:
       matrix:
         python-version: [3.8]
 
-    steps:
-    - name: Generate a token
-      id: generate-token
-      uses: actions/create-github-app-token@v3
-      with:
-        client-id: ${{ vars.APP_CLIENT_ID }}
-        private-key: ${{ secrets.APP_PRIVATE_KEY }}
-        
+    steps:     
     - uses: actions/checkout@v6
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v6
