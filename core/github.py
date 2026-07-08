@@ -179,6 +179,7 @@ def query_star_history(user, repo, token, div = 7):
     url = 'https://api.github.com/repos/{0}/{1}/stargazers'.format(user, repo)
     headers = {'User-Agent': 'ButterAndButterfly', 'Accept': 'application/vnd.github.v3.star+json', "Authorization": "token "+ token}
     response = requests.get(url, headers=headers)
+    print(response.text)
     dealResponseData(response.json())    
     
     if not "link" in response.headers:
