@@ -71,6 +71,8 @@ def query_top(user, token, top:int = 3):
     headers = {"Authorization": "Bearer "+ token}
     this_url = query_repos_url.format(user, top)
     response = requests.post('https://api.github.com/graphql', json={'query': this_url}, headers=headers)
+    print(user)
+    print(response.text)
     result = response.json()
     obj = result['data']['user']
     if obj  == None:
