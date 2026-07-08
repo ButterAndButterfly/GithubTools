@@ -71,8 +71,6 @@ def query_top(user, token, top:int = 3):
     headers = {"Authorization": "Bearer "+ token}
     this_url = query_repos_url.format(user, top)
     response = requests.post('https://api.github.com/graphql', json={'query': this_url}, headers=headers)
-    print(user)
-    print(response.text)
     result = response.json()
     obj = result['data']['user']
     if obj  == None:
@@ -181,9 +179,6 @@ def query_star_history(user, repo, token, div = 7):
     url = 'https://api.github.com/repos/{0}/{1}/stargazers'.format(user, repo)
     headers = {'User-Agent': 'ButterAndButterfly', 'Accept': 'application/vnd.github.v3.star+json', "Authorization": "Bearer "+ token}
     response = requests.get(url, headers=headers)
-    print(user)
-    print(repo)
-    print(response.text)
     dealResponseData(response.json())    
     
     if not "link" in response.headers:
