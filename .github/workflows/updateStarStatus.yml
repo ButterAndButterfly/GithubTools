@@ -46,7 +46,7 @@ jobs:
         
     - name: run tasks
       env:
-        MY_GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
+        MY_GITHUB_TOKEN: ${{ secrets.FG_GITHUB_TOKEN }}
       run: |
         python main.py config.json
         
