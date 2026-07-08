@@ -24,7 +24,7 @@ def query_stargazers_name(user, repo, token):
       }}
     }}
     """
-    headers = {"Authorization": "token "+ token}
+    headers = {"Authorization": "Bearer "+ token}
     endCursor = ""
     hasNextPage = True
     stargazers = []
@@ -68,7 +68,7 @@ def query_top(user, token, top:int = 3):
       }}
     }}
     """
-    headers = {"Authorization": "token "+ token}
+    headers = {"Authorization": "Bearer "+ token}
     this_url = query_repos_url.format(user, top)
     response = requests.post('https://api.github.com/graphql', json={'query': this_url}, headers=headers)
     result = response.json()
@@ -111,7 +111,7 @@ def query_total(user, token):
     }}
     """
     info = {"stars": 0, "forks": 0}
-    headers = {"Authorization": "token "+ token}
+    headers = {"Authorization": "Bearer "+ token}
     endCursor = ""
     hasNextPage = True
     while hasNextPage:
@@ -177,8 +177,10 @@ def query_star_history(user, repo, token, div = 7):
         history[keys[tlen*2//3]] = tmp_history[keys[tlen*2//3]]
         
     url = 'https://api.github.com/repos/{0}/{1}/stargazers'.format(user, repo)
-    headers = {'User-Agent': 'ButterAndButterfly', 'Accept': 'application/vnd.github.v3.star+json', "Authorization": "token "+ token}
+    headers = {'User-Agent': 'ButterAndButterfly', 'Accept': 'application/vnd.github.v3.star+json', "Authorization": "Bearer "+ token}
     response = requests.get(url, headers=headers)
+    print(user)
+    print(repo)
     print(response.text)
     dealResponseData(response.json())    
     
