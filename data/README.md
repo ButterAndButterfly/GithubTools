@@ -44,7 +44,7 @@
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy) 
     ![130 stars](https://img.shields.io/badge/Stars-130-green)
-    ![45 forks](https://img.shields.io/badge/Forks-45-green)  
+    ![44 forks](https://img.shields.io/badge/Forks-44-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
 
